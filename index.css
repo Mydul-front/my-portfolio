@@ -207,5 +207,35 @@
      margin:auto;
 }
 .education{
-     
+     border:2px solid green;
+     padding:10px;
+     gap:5px;
+}
+.exp{
+     border:2px solid green;
+     padding:10px;
+     gap:5px;
+}
+mr-batton{
+     background-color: #757575;
+     color: black;
+     margin-top: 20px;
+}
+.hublu{
+     display:flex;
+     gap:20px;
+     background-color: #fd6f0a5e;
+     width:1600px;
+     height:780px;
+     align-items: center;
+}
+.hublu .left{
+     text-align:left;
+}
+.left .patlu{
+     width:50%;
+     text-align: center;
+}
+.miss{
+     text-align: left;
 }
