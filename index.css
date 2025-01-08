@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+     margin:0;
+     padding:0;
+     font-family: "Work Sans", serif;
+     font-optical-sizing: auto;
+     font-weight:700;
+     font-style: normal;
+}
+.first-section{
+     background-image: url('portfolio-resources/images/developer.png'), url('portfolio-resources/images/header_bg.png');
+     background-repeat: no-repeat;
+     background-position: top left, bottom right;
+     
+}
+.first-section .nav{
+     display:flex;
+     align-items: center;
+     justify-content: space-between;
+     margin:5px 30px 50px 6px;
+}
+.nav ul li{
+     list-style: none;
+     margin:50px;
+}
+.nav li a{
+     text-decoration: none;
+     font-size: 20px;
+     color:#474747;
+}
+.nav .head{
+     font-size: 45px;
+     color:Black;
+}
+.head span{
+     color: blueviolet;
+}
+.nav ul{
+     display:flex;
+     align-items: center;
+}
+.btn{
+     background-color: #FD6E0A;
+     height:64px;
+     width:150px;
+     color:white;
+     font-size: bold;
+     padding:18px;
+}
+.call{
+     display:flex;
+     justify-content: space-between;
+     margin:10px 5px 10px 60px;
+}
+.call-1{
+     margin-top: 100px;
+     max-height:600px;
+     width:300px;
+}
+.download{
+     display: flex;
+     margin-top: 20px;
+
+}
+.download li{
+     list-style:none;
+
+}
+.download .download-1{
+     text-decoration: none;
+     margin:60px 10px 5px 10px;
+     background-color: #FD6E0A;
+     padding:5px;
+}
+.download li a{
+     border:2px solid black;
+     text-decoration: none;
+     padding:5px;
+}
+.call-1 .para{
+     font-size:18px;
+     color:#757575;
+}
+.call-1 .intro{
+     font-size: 50px;
+     color: #474747;
+     gap:2px;
+}
+.call-1 .intro-2{
+     font-size: 85px;
+     font-weight: bold;
+}
+.about-0{
+     background-color: #FFF8F3;
+     max-width: 1040px;
+     margin:auto;
+     max-height:1100px;
+
+}
+.about-1{
+     text-align: center;
+     margin:20px;
+     
+     
+}
+.about-2{
+     font-size:35px;
+     font-weight: bold;
+     
+     height: 288px;
+     width: 827px;
+
+}
+.about-1 .para2{
+     font-size: 18px;
+     color: #757575;
+}
+.info .div-1 h1{
+     font-size: 20px;
+     color:aquamarine;
+}
+.info .div-1 p{
+     font-size: 20px;
+     color: #474747;
+}
+.info .div-2 h1{
+     font-size: 20px;
+     color:aquamarine;
+}
+.info .div-2 p{
+     font-size: 20px;
+     color: #474747;
+}
+.info .div-3 h1{
+     font-size: 20px;
+     color:aquamarine;
+}
+.info .div-3 p{
+     font-size: 20px;
+     color: #474747;
+}
+.info .div-4 h1{
+     font-size: 20px;
+     color:aquamarine;
+}
+.info .div-4 p{
+     font-size: 20px;
+     color: #474747;
+}
+.info{
+     display: flex;
+     gap:10px;
+}
+.div-1 .div-2 .div-3 .div-4{
+     margin-bottom: 20px;
+}
+.div-1 .div-2 .div-3 .div-4 p{
+     margin-left: 20px;
+}
+.mydul .miran h1{
+     font-family: 35px;
+     font-weight: bold;
+}
+.mydul .miran p{
+     font-size: 18px;
+     color:#757575;
+}
+
+.mydul{
+     margin-top: 60px;
+     
+}
+.mydul .miran{
+     text-align: center;
+     
+
+}
+.basic{
+     display: flex;
+     gap:10px;
+     margin-top: 20px;
+}
+.java{
+     border:2px solid green;
+     padding:10px;
+}
+.react{
+     border:2px solid green;
+     padding:10px;
+}
+.node{
+     border:2px solid green;
+     padding:10px;
+}
+.mongo{
+     border:2px solid green;
+     padding:10px;
+}
+.resume{
+     text-align: center;
+     margin:50px 30px 50px 30px;
+     
+}
+.important{
+     display:flex;
+     gap:20px;
+     margin:auto;
+}
+.education{
+     
+}
