@@ -225,9 +225,11 @@ mr-batton{
      display:flex;
      gap:20px;
      background-color: #fd6f0a5e;
-     width:1600px;
+     /* width:1600px; */
      height:780px;
      align-items: center;
+     justify-content: space-between;
+     padding:20px;
 }
 .hublu .left{
      text-align:left;
